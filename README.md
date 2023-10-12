@@ -1,3 +1,7 @@
+# KHÔNG CHẠY ĐƯỢC
+# TODO
+## CẦN SỬA
+
 # JavaFx-SocketChat
 
 A small application which using JavaFX for a GUI chat application.
